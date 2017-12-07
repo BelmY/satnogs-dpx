@@ -1,4 +1,8 @@
-*.blend1
-*.blend2
-*.gcode
+# FreeCAD
 *.fcstd1
+# KiCAD
+*.bak
+*.bck
+*.kicad_pcb-bak
+# Qucs
+*.dat
